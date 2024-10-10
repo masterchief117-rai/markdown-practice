@@ -1,1 +1,2 @@
-# markdown-practice
+# **对于pywork_bug文档的相关说明**
+##概述：pywork_bug文档是对于网页进行静态的爬取，在部分通过动态技术加载的网站上可能并不适用
